@@ -9,7 +9,7 @@ author: Rurril
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "초보 글쓴이"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -35,9 +35,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jine2669@gmail.com"
-  facebook: None
+#  facebook: None
   github: rurril
-  twitter: None
+#  twitter: None
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
